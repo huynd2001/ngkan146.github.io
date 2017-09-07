@@ -1,2 +1,4 @@
 # ngkan146.github.io
-testing
+Personal blog.
+
+Blog cá nhân, thích viết về cái gì thì viết.
